@@ -1,0 +1,29 @@
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Launcher v0.0.1.exe
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Launcher v0.0.1.deps.json
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Launcher v0.0.1.runtimeconfig.json
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Launcher v0.0.1.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Launcher v0.0.1.pdb
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\MaterialDesignColors.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\MySql.Data.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\ZstdNet.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\Ubiety.Dns.Core.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\bin\Release\net6.0-windows\MySql.Data.xml
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.csproj.AssemblyReference.cache
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher_v0._0._1.Form1.resources
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.csproj.GenerateResource.cache
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.AssemblyInfoInputs.cache
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.AssemblyInfo.cs
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.csproj.CoreCompileInputs.cache
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.csproj.CopyComplete
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\refint\Launcher v0.0.1.dll
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.pdb
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\Launcher v0.0.1.genruntimeconfig.cache
+C:\SD\Programming\VS\repos\Launcher v0.0.1\Launcher v0.0.1\obj\Release\net6.0-windows\ref\Launcher v0.0.1.dll
